@@ -1,3 +1,3 @@
 # Gruen-zone-BMD
 
-All scripts will be after the paper is accepted.
+All scripts will be uploaded after the paper is accepted and published.
