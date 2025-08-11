@@ -6,5 +6,5 @@ All scripts will be uploaded after the paper is accepted and published.
 
 The codes in this repository are used to quantify the bone density of the Gruen zones from CT images.
 
-<img src='fig.jpg' width='1000px'>
+<img src='fig/figure.jpg' width='1000px'>
 
