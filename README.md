@@ -19,7 +19,7 @@ For a sample of json file, please see [sample_setup.json](/sample/sample_setup.j
 - Segmented label (from U-net, saved as .mhd)
 - CAD model registered to preoperative CT images (saved as .mhd)
 - Eleven landmarks from the femur (from 3D slicer, saved as .fcsv)<dt>1 Head center</dt> <dt>2 Neck center </dt></dt> 3-4 Shaft (2cm distal from the lesser trochanter, 5cm distal from the lesser trochanter)</dt><dt>5-8 Head neck junction (superior, inferior, anterior, posterior)</dt>   <dt>9 Lesser trochanter </dt> <dt>10 Medial posterior condyle </dt> <dt>11 Lateral posterior condyle
-- Nine landmarks from the registered stem CAD model (saved as .fcsv)<dt>1 Proximal neck center</dt><dt>2 Lateral edge</dt><dt>3-6 Head neck junction </dt><dt>7 Distal tip 8-9 Stem groove
+- Nine landmarks from the registered stem CAD model (saved as .fcsv)<dt>1 Proximal neck center</dt><dt>2 Lateral edge</dt><dt>3-6 Head neck junction </dt><dt>7 Distal tip </dt><dt>8-9 Stem groove
 - Slope and intercept of the regression model (from phantom segmentation)
 
 
