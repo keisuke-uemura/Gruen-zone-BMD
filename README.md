@@ -30,10 +30,7 @@ For a sample of json file, please see [sample_setup.json](/sample/sample_setup.j
 Gruen_zone_BMD_measurements.m
 ```
 - Required functions 
-  <dt>import_data.m</dt>
   <dt>Gruen_transformation.m</dt>
-  <dt>calculate_rotation_angles.m</dt>
-  <dt>generate_proximal_femur_DRR.m</dt>
   <dt>Gruen_measurement.m</dt>
   <dt>Gruen_measurement.m</dt>
 
