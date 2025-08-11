@@ -1,0 +1,8 @@
+{
+    "slope":0.8, 
+    "intercept":0.5, 
+    "fcsvfile":"sample.fcsv", 
+    "preoperativeCT":"preoperativeCT.mhd", 
+    "cad_model":"cad_model.mhd",
+	"preop_femur_label":"preop_femur_label.mhd",
+}
