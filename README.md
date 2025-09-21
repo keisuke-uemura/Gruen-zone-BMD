@@ -28,7 +28,9 @@ For a sample of json file, please see [sample_setup.json](/sample/sample_setup.j
 ```bash
 Gruen_zone_BMD_measurements.m
 ```
-- Required functions 
+- Required functions
+  <dt>mhdread.m</dt>
+  <dt>LoadSlicerFiducialFile.m</dt>
   <dt>Gruen_transformation.m</dt>
   <dt>Gruen_measurement.m</dt>
 
