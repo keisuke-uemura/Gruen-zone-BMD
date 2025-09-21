@@ -31,7 +31,8 @@ Gruen_zone_BMD_measurements.m
 - Required functions
   <dt>mhdread.m</dt>
   <dt>LoadSlicerFiducialFile.m</dt>
-  <dt>Gruen_transformation.m</dt>
+  <dt>Gruen_transformation.m</dt> 
+  <dt>Gruen_DRR_generation.m</dt> 
   <dt>Gruen_measurement.m</dt>
 
 # Licence
