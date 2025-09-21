@@ -26,7 +26,7 @@ For a sample of json file, please see [sample_setup.json](/sample/sample_setup.j
 ## Usage
 
 ```bash
-Gruen_zone_BMD_measurements.m
+Gruen_zone_BMD_measurements.m (https://github.com/keisuke-uemura/Gruen-zone-BMD/blob/main/Gruen_zone_BMD_measurements.m)
 ```
 - Required functions
   <dt>mhdread.m</dt>
