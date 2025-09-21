@@ -31,7 +31,6 @@ Gruen_zone_BMD_measurements.m
 - Required functions 
   <dt>Gruen_transformation.m</dt>
   <dt>Gruen_measurement.m</dt>
-  <dt>Gruen_measurement.m</dt>
 
 # Licence
 Codes can be used for research purpose or for educational purpose.
